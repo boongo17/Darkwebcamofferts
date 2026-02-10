@@ -1,6 +1,6 @@
 const produkty = [
   {
-    nazwa: "Zawór Kulowy VK-Spy Cam 4K",
+    nazwa: "Mufa Stalowa SilentCam HX",
     cena: "1 499 PLN",
     sprzedawca: "hydro_tech_77",
     img: "images/zawor.jpg",
@@ -28,7 +28,7 @@ const produkty = [
     `
   },
   {
-    nazwa: "Mufa Stalowa SilentCam HX",
+    nazwa: "Zawór Kulowy VK-Spy Cam 4K",
     cena: "899 PLN",
     sprzedawca: "pipe_black_ops",
     img: "images/mufa.jpg",
