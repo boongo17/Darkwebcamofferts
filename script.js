@@ -15,6 +15,66 @@ const produkty = [
     `
   },
   {
+    nazwa: "1111x",
+    cena: "1 499 PLN",
+    sprzedawca: "hydro_tech_77",
+    img: "images/zawor.jpg",
+    opis: `
+    Kamera szpiegowska CCTV ukryta w metalowym zaworze hydraulicznym.
+    <br><br>
+    • Rozdzielczość 4K<br>
+    • Detekcja ruchu<br>
+    • Tryb nocny IR<br>
+    • Zdalny podgląd Wi-Fi<br><br>
+    Przeznaczenie: monitoring mienia prywatnego i przemysłowego.
+    `
+  },
+  {
+    nazwa: "22221x",
+    cena: "1 499 PLN",
+    sprzedawca: "hydro_tech_77",
+    img: "images/zawor.jpg",
+    opis: `
+    Kamera szpiegowska CCTV ukryta w metalowym zaworze hydraulicznym.
+    <br><br>
+    • Rozdzielczość 4K<br>
+    • Detekcja ruchu<br>
+    • Tryb nocny IR<br>
+    • Zdalny podgląd Wi-Fi<br><br>
+    Przeznaczenie: monitoring mienia prywatnego i przemysłowego.
+    `
+  },
+  {
+    nazwa: "3311x",
+    cena: "1 499 PLN",
+    sprzedawca: "hydro_tech_77",
+    img: "images/zawor.jpg",
+    opis: `
+    Kamera szpiegowska CCTV ukryta w metalowym zaworze hydraulicznym.
+    <br><br>
+    • Rozdzielczość 4K<br>
+    • Detekcja ruchu<br>
+    • Tryb nocny IR<br>
+    • Zdalny podgląd Wi-Fi<br><br>
+    Przeznaczenie: monitoring mienia prywatnego i przemysłowego.
+    `
+  },
+  {
+    nazwa: "11rrrrrrr11x",
+    cena: "1 499 PLN",
+    sprzedawca: "hydro_tech_77",
+    img: "images/zawor.jpg",
+    opis: `
+    Kamera szpiegowska CCTV ukryta w metalowym zaworze hydraulicznym.
+    <br><br>
+    • Rozdzielczość 4K<br>
+    • Detekcja ruchu<br>
+    • Tryb nocny IR<br>
+    • Zdalny podgląd Wi-Fi<br><br>
+    Przeznaczenie: monitoring mienia prywatnego i przemysłowego.
+    `
+  },
+  {
     nazwa: "Trójnik Instalacyjny T-Spy Pipe",
     cena: "1 099 PLN",
     sprzedawca: "silent_install",
